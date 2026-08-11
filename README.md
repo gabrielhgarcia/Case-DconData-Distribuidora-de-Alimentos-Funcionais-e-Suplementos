@@ -49,4 +49,3 @@ Central do Brasil (SGS/PTAX).
 Utilizei o Claude (Anthropic) como copiloto de análise. O detalhamento
 completo — o que foi sugerido pela IA, o que foi revisado/corrigido por mim e
 como validei cada resultado — está na seção 6 de
-[`Registro_Premissas_Limitacoes.docx`](./Registro_Premissas_Limitacoes.docx).
