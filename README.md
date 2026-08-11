@@ -1,6 +1,6 @@
 # Case DconData — Distribuidora de Alimentos Funcionais e Suplementos
 
-Processo seletivo | Consultor de Análise de Dados
+Consultor de Análise de Dados
 **Autor:** Gabriel Garcia
 
 ## Por onde começar
