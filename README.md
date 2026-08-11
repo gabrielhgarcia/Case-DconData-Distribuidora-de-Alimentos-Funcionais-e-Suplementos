@@ -6,9 +6,9 @@ Processo seletivo | Consultor de Análise de Dados
 ## Por onde começar
 
 1. **[`Case_Distribuidora_Diagnostico.pptx`](/Conclusão/Case_Distribuidora_Diagnostico.pptx))** — material executivo. Comece por aqui: sumário executivo, diagnóstico, segmentação e recomendações priorizadas.
-2. **[`Case_Distribuidora_Analise.ipynb`](./Case_Distribuidora_Analise.ipynb)** — material analítico. Todo o raciocínio e cálculo documentado célula a célula (renderiza direto aqui no GitHub).
+2. **[`Case_Distribuidora_Analise.ipynb`](./codigo/Case_Distribuidora_Analise.ipynb)** — material analítico. Todo o raciocínio e cálculo documentado célula a célula (renderiza direto aqui no GitHub).
 3. **[`Registro_Premissas_Limitacoes.docx`](./Conclusão/Registro_Premissas_Limitacoes.docx)** — premissas, limitações, ferramentas escolhidas, uso de IA e plano de trabalho.
-4. **[`integracao_bacen_cambio.py`](./integracao_bacen_cambio.py)** — código de acesso à fonte pública (API do Banco Central, série PTAX).
+4. **[`integracao_bacen_cambio.py`](./codigo/API.py)** — código de acesso à fonte pública (API do Banco Central, série PTAX).
 
 ## Resumo do diagnóstico
 
