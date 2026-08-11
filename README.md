@@ -43,9 +43,3 @@ redirecionar canal, cliente e produto antes de acelerar mais.
 
 Python (pandas, matplotlib), Jupyter Notebook, PowerPoint, API do Banco
 Central do Brasil (SGS/PTAX).
-
-## Uso de IA
-
-Utilizei o Claude (Anthropic) como copiloto de análise. O detalhamento
-completo — o que foi sugerido pela IA, o que foi revisado/corrigido por mim e
-como validei cada resultado — está na seção 6 de
