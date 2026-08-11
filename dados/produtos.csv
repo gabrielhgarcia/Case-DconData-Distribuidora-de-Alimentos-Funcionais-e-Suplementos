@@ -1,0 +1,181 @@
+produto_id,produto,categoria,marca,data_inicio_venda,data_fim_venda,peso_kg,preco_referencia,custo_atual,importado,armazenamento,embalagem_especial,validade_dias
+PRD0001,Proteínas Axiom 001,Proteínas e recuperação,Axiom,2025-01-01,,0.685,101.34,48.85,true,AMBIENTE,false,540
+PRD0002,Proteínas Corelab 002,Proteínas e recuperação,Corelab,2025-01-01,,0.5,135.64,62.3,true,AMBIENTE,false,180
+PRD0003,Proteínas Noma 003,Proteínas e recuperação,Noma,2025-01-01,,0.8,168.91,80.61,true,AMBIENTE,false,730
+PRD0004,Proteínas North 004,Proteínas e recuperação,North,2025-01-01,,1.004,153.97,72.12,true,REFRIGERADO,false,730
+PRD0005,Proteínas Veld 005,Proteínas e recuperação,Veld,2025-01-01,,0.718,170.45,83.19,true,AMBIENTE,false,270
+PRD0006,Proteínas Metrik 006,Proteínas e recuperação,Metrik,2025-01-01,,0.753,154.96,69.39,true,AMBIENTE,false,270
+PRD0007,Proteínas Arden 007,Proteínas e recuperação,Arden,2025-01-01,,1.099,114.51,51.7,true,AMBIENTE,false,180
+PRD0008,Proteínas Oryx 008,Proteínas e recuperação,Oryx,2025-01-01,,0.803,189.76,91.64,true,AMBIENTE,false,365
+PRD0009,Proteínas Axiom 009,Proteínas e recuperação,Axiom,2025-01-01,,0.898,169.91,82.85,true,AMBIENTE,false,270
+PRD0010,Proteínas Corelab 010,Proteínas e recuperação,Corelab,2025-01-01,,0.745,137.87,66.98,true,AMBIENTE,false,270
+PRD0011,Proteínas Noma 011,Proteínas e recuperação,Noma,2025-01-01,,0.6,123.13,54.51,true,REFRIGERADO,false,365
+PRD0012,Proteínas North 012,Proteínas e recuperação,North,2025-01-01,,0.626,208.56,92.39,true,AMBIENTE,false,730
+PRD0013,Proteínas Veld 013,Proteínas e recuperação,Veld,2025-01-01,,0.912,202.36,96.81,true,ESPECIAL,false,270
+PRD0014,Proteínas Metrik 014,Proteínas e recuperação,Metrik,2025-01-01,,1.04,151.49,67.76,true,ESPECIAL,false,270
+PRD0015,Proteínas Arden 015,Proteínas e recuperação,Arden,2025-01-01,,0.481,207.2,102.14,true,AMBIENTE,false,180
+PRD0016,Proteínas Oryx 016,Proteínas e recuperação,Oryx,2025-01-01,,0.545,159.63,73.1,true,ESPECIAL,false,270
+PRD0017,Proteínas Axiom 017,Proteínas e recuperação,Axiom,2025-01-01,,0.808,229.41,104.33,true,AMBIENTE,false,180
+PRD0018,Proteínas Corelab 018,Proteínas e recuperação,Corelab,2025-01-01,,0.791,100.3,49.05,true,AMBIENTE,false,730
+PRD0019,Proteínas Noma 019,Proteínas e recuperação,Noma,2025-01-01,,0.807,215.1,97.69,true,AMBIENTE,false,730
+PRD0020,Proteínas North 020,Proteínas e recuperação,North,2025-01-01,,0.774,129.6,62.29,true,ESPECIAL,false,180
+PRD0021,Proteínas Veld 021,Proteínas e recuperação,Veld,2025-01-01,,0.723,125.8,60.58,true,AMBIENTE,false,365
+PRD0022,Proteínas Metrik 022,Proteínas e recuperação,Metrik,2025-01-01,,0.745,121.13,59.22,true,ESPECIAL,false,540
+PRD0023,Proteínas Arden 023,Proteínas e recuperação,Arden,2025-01-01,,0.473,230.94,111.54,true,AMBIENTE,false,180
+PRD0024,Proteínas Oryx 024,Proteínas e recuperação,Oryx,2025-01-01,,0.991,110.28,50.43,true,AMBIENTE,false,540
+PRD0025,Proteínas Axiom 025,Proteínas e recuperação,Axiom,2025-01-01,,1.05,148.92,68.78,true,AMBIENTE,false,180
+PRD0026,Proteínas Corelab 026,Proteínas e recuperação,Corelab,2025-01-01,,1.094,160.26,75.21,true,AMBIENTE,false,270
+PRD0027,Proteínas Noma 027,Proteínas e recuperação,Noma,2025-01-01,,0.45,224.98,110.36,true,AMBIENTE,false,540
+PRD0028,Proteínas North 028,Proteínas e recuperação,North,2025-01-01,,0.854,183.6,85.37,true,AMBIENTE,false,540
+PRD0029,Proteínas Veld 029,Proteínas e recuperação,Veld,2025-01-01,,0.785,165.91,79.02,true,AMBIENTE,true,730
+PRD0030,Proteínas Metrik 030,Proteínas e recuperação,Metrik,2025-01-01,,0.73,172.21,85.21,true,REFRIGERADO,false,540
+PRD0031,Proteínas Arden 031,Proteínas e recuperação,Arden,2025-01-01,,0.563,191.77,85.08,true,AMBIENTE,false,270
+PRD0032,Proteínas Oryx 032,Proteínas e recuperação,Oryx,2025-01-01,,0.648,138.85,64.29,true,AMBIENTE,false,180
+PRD0033,Proteínas Axiom 033,Proteínas e recuperação,Axiom,2025-01-01,,0.769,202.93,113.17,false,AMBIENTE,false,365
+PRD0034,Proteínas Corelab 034,Proteínas & recuperação,Corelab,2025-01-01,,0.661,197.44,112.79,false,ESPECIAL,false,730
+PRD0035,Proteínas Noma 035,Proteínas e recuperação,Noma,2025-01-01,,0.536,179.21,97.06,false,AMBIENTE,false,730
+PRD0036,Proteínas North 036,Proteínas e recuperação,North,2025-01-01,,0.57,114.78,62.1,false,AMBIENTE,false,540
+PRD0037,Proteínas Veld 037,Proteínas e recuperação,Veld,2025-01-01,,0.483,163.84,92.29,false,AMBIENTE,false,365
+PRD0038,Proteínas Metrik 038,Proteínas e recuperação,Metrik,2025-01-01,,0.722,212.29,124.85,false,AMBIENTE,false,180
+PRD0039,Proteínas Arden 039,Proteínas e recuperação,Arden,2025-01-01,,0.907,134.53,70.82,false,AMBIENTE,false,730
+PRD0040,Proteínas Oryx 040,Proteínas e recuperação,Oryx,2025-01-01,,0.806,218.33,117.45,false,AMBIENTE,false,540
+PRD0041,Proteínas Axiom 041,Proteínas e recuperação,Axiom,2025-01-01,,0.929,185.04,100.16,false,AMBIENTE,false,180
+PRD0042,Proteínas Corelab 042,Proteínas e recuperação,Corelab,2025-01-01,,0.495,205.51,117.5,false,AMBIENTE,false,730
+PRD0043,Performance Axiom 043,Performance,Axiom,2025-01-01,,0.272,84.81,46.38,false,AMBIENTE,false,270
+PRD0044,Performance Corelab 044,Performance,Corelab,2025-01-01,,0.371,80.94,42.24,false,AMBIENTE,false,180
+PRD0045,Performance Noma 045,Performance,Noma,2025-01-01,,0.324,120.29,66.37,false,ESPECIAL,true,270
+PRD0046,Performance North 046,Performance,North,2025-01-01,,0.547,99.36,55.21,false,AMBIENTE,false,730
+PRD0047,Performance Veld 047,Performance,Veld,2025-01-01,,0.416,143.28,73.86,false,REFRIGERADO,false,270
+PRD0048,Performance Metrik 048,Performance,Metrik,2025-01-01,,0.451,81.45,45.6,false,AMBIENTE,false,730
+PRD0049,Performance Arden 049,Performance,Arden,2025-01-01,,0.467,79.39,43.89,false,AMBIENTE,false,730
+PRD0050,Performance Oryx 050,Performance,Oryx,2025-01-01,,0.225,161.91,89.92,false,AMBIENTE,true,730
+PRD0051,Performance Axiom 051,Performance,Axiom,2025-01-01,,0.358,131.38,68.37,false,AMBIENTE,true,180
+PRD0052,Performance Corelab 052,Performance,Corelab,2025-01-01,,0.208,126.83,67.39,false,AMBIENTE,false,730
+PRD0053,Performance Noma 053,,Noma,2025-01-01,,0.282,126.41,67.65,false,AMBIENTE,false,730
+PRD0054,Performance North 054,Performance,North,2025-01-01,,0.564,164.03,91.99,false,AMBIENTE,false,270
+PRD0055,Performance Veld 055,Performance,Veld,2025-01-01,,0.267,75.97,39.52,false,REFRIGERADO,false,270
+PRD0056,Performance Metrik 056,Performance,Metrik,2025-01-01,,0.287,125.68,65.34,false,AMBIENTE,false,180
+PRD0057,Performance Arden 057,Performance,Arden,2025-01-01,,0.322,150.62,80.53,false,AMBIENTE,false,365
+PRD0058,Performance Oryx 058,Performance,Oryx,2025-01-01,,0.45,77.52,42.4,false,AMBIENTE,false,270
+PRD0059,Performance Axiom 059,Performance,Axiom,2025-01-01,,0.502,156.28,85.94,false,AMBIENTE,false,365
+PRD0060,Performance Corelab 060,Performance,Corelab,2025-01-01,,0.538,86.2,45.1,false,AMBIENTE,false,730
+PRD0061,Performance Noma 061,Performance,Noma,2025-01-01,,0.374,120.47,65.75,false,AMBIENTE,false,365
+PRD0062,Performance North 062,Performance,North,2025-01-01,,0.279,114.12,61.28,false,AMBIENTE,false,540
+PRD0063,Performance Veld 063,Performance,Veld,2025-01-01,,0.517,152.47,85.96,false,AMBIENTE,false,365
+PRD0064,Performance Metrik 064,Performance,Metrik,2025-01-01,,0.206,78.66,45.01,false,AMBIENTE,false,365
+PRD0065,Performance Arden 065,Performance,Arden,2025-01-01,,0.211,147.89,77.09,false,AMBIENTE,false,730
+PRD0066,Performance Oryx 066,Performance,Oryx,2025-01-01,,0.403,139.45,71.62,false,AMBIENTE,true,730
+PRD0067,Performance Axiom 067,Performance,Axiom,2025-01-01,,0.33,105.96,55.81,false,AMBIENTE,false,730
+PRD0068,Performance Corelab 068,Performance,Corelab,2025-01-01,,0.517,90.41,49.98,false,AMBIENTE,false,540
+PRD0069,Performance Noma 069,Performance,Noma,2025-01-01,,0.237,92.13,50.12,false,AMBIENTE,false,180
+PRD0070,Performance North 070,Performance,North,2025-01-01,,0.432,144.33,74.03,false,AMBIENTE,false,270
+PRD0071,Performance Veld 071,Performance,Veld,2025-01-01,,0.555,129.11,70.79,false,AMBIENTE,false,540
+PRD0072,Performance Metrik 072,Performance,Metrik,2025-01-01,,0.469,161.65,89.86,false,AMBIENTE,true,365
+PRD0073,Performance Arden 073,Performance,Arden,2025-01-01,,0.385,103.86,58.7,false,AMBIENTE,false,730
+PRD0074,Performance Oryx 074,Performance,Oryx,2025-01-01,,0.337,102.35,56.98,false,AMBIENTE,false,730
+PRD0075,Performance Axiom 075,Performance,Axiom,2025-01-01,,0.579,148.94,77.33,false,AMBIENTE,false,270
+PRD0076,Performance Corelab 076,Performance,Corelab,2025-01-01,,0.368,161.15,82.52,false,AMBIENTE,false,180
+PRD0077,Performance Noma 077,Performance,Noma,2025-01-01,,0.426,91.18,50.59,false,ESPECIAL,false,730
+PRD0078,Performance North 078,Performance,North,2025-01-01,,0.474,151.31,81.53,false,AMBIENTE,false,270
+PRD0079,Vitaminas Axiom 079,Vitaminas e minerais,Axiom,2025-01-01,,0.13,101.72,41.81,false,AMBIENTE,false,365
+PRD0080,Vitaminas Corelab 080,Vitaminas e minerais,Corelab,2025-01-01,,0.19,53.62,21.88,false,AMBIENTE,false,270
+PRD0081,Vitaminas Noma 081,Vitaminas e minerais,Noma,2025-01-01,,0.13,84.6,37.8,false,AMBIENTE,false,730
+PRD0082,Vitaminas North 082,Vitaminas e minerais,North,2025-01-01,,0.174,68.23,29.09,false,ESPECIAL,false,270
+PRD0083,Vitaminas Veld 083,Vitaminas e minerais,Veld,2025-01-01,,0.086,95.47,42.33,false,AMBIENTE,false,365
+PRD0084,Vitaminas Metrik 084,Vitaminas e minerais,Metrik,2025-01-01,,0.112,67.53,27.31,false,AMBIENTE,false,180
+PRD0085,Vitaminas Arden 085,Vitaminas e minerais,Arden,2025-01-01,,0.147,65.56,27.47,false,AMBIENTE,false,730
+PRD0086,Vitaminas Oryx 086,Vitaminas e minerais,Oryx,2025-01-01,,0.149,84.52,34.5,false,AMBIENTE,false,365
+PRD0087,Vitaminas Axiom 087,Vitaminas e minerais,Axiom,2025-01-01,,0.121,56.14,24.84,false,REFRIGERADO,false,180
+PRD0088,Vitaminas Corelab 088,Vitaminas e minerais,Corelab,2025-01-01,,0.165,60.63,24.9,false,AMBIENTE,false,270
+PRD0089,Vitaminas Noma 089,Vitaminas e minerais,Noma,2025-01-01,,0.159,95.2,42.93,false,AMBIENTE,false,180
+PRD0090,Vitaminas North 090,Vitaminas e minerais,North,2025-01-01,,0.172,59.64,26.64,false,AMBIENTE,false,730
+PRD0091,Vitaminas Veld 091,Vitaminas e minerais,Veld,2025-01-01,,0.191,99.77,45.46,false,AMBIENTE,false,365
+PRD0092,Vitaminas Metrik 092,Vitaminas e minerais,Metrik,2025-01-01,,0.152,67.26,29.11,false,ESPECIAL,false,730
+PRD0093,Vitaminas Arden 093,Vitaminas e minerais,Arden,2025-01-01,,0.106,78.85,33.25,false,AMBIENTE,false,365
+PRD0094,Vitaminas Oryx 094,Vitaminas e minerais,Oryx,2025-01-01,,0.054,70.14,31.76,false,AMBIENTE,false,270
+PRD0095,Vitaminas Axiom 095,Vitaminas e minerais,Axiom,2025-01-01,,0.186,45.02,20.17,false,AMBIENTE,false,270
+PRD0096,Vitaminas Corelab 096,Vitaminas e minerais,Corelab,2025-01-01,,0.094,53.79,24.37,false,AMBIENTE,false,270
+PRD0097,Vitaminas Noma 097,Vitaminas e minerais,Noma,2025-01-01,,0.087,65.21,27.67,false,AMBIENTE,false,365
+PRD0098,Vitaminas North 098,Vitaminas e minerais,North,2025-01-01,,0.134,84.17,34.9,false,AMBIENTE,false,365
+PRD0099,Vitaminas Veld 099,Vitaminas e minerais,Veld,2025-01-01,,0.103,69.18,31.02,false,AMBIENTE,false,270
+PRD0100,Vitaminas Metrik 100,Vitaminas e minerais,Metrik,2025-01-01,,0.111,71.38,29.55,false,AMBIENTE,false,180
+PRD0101,Vitaminas Arden 101,Vitaminas e minerais,Arden,2025-01-01,,0.196,88.82,39.46,false,AMBIENTE,false,365
+PRD0102,Vitaminas Oryx 102,Vitaminas e minerais,Oryx,2025-01-01,,0.128,83.65,37.55,false,AMBIENTE,false,365
+PRD0103,Vitaminas Axiom 103,Vitaminas e minerais,Axiom,2025-01-01,,0.138,95.76,41.83,false,AMBIENTE,false,180
+PRD0104,Vitaminas Corelab 104,Vitaminas e minerais,Corelab,2025-01-01,,0.132,72.93,32.66,false,ESPECIAL,false,365
+PRD0105,Vitaminas Noma 105,Vitaminas e minerais,Noma,2025-01-01,,0.142,69.42,30.3,false,AMBIENTE,false,270
+PRD0106,Vitaminas North 106,Vitaminas e minerais,North,2025-01-01,,0.145,65.47,29.58,false,AMBIENTE,false,540
+PRD0107,Vitaminas Veld 107,Vitaminas e minerais,Veld,2025-01-01,,0.057,95.35,39.01,false,AMBIENTE,false,270
+PRD0108,Vitaminas Metrik 108,Vitaminas e minerais,Metrik,2025-01-01,,0.071,97.83,42.85,false,AMBIENTE,false,270
+PRD0109,Vitaminas Arden 109,Vitaminas e minerais,Arden,2025-01-01,,0.175,85.0,34.43,false,AMBIENTE,false,365
+PRD0110,Vitaminas Oryx 110,Vitaminas e minerais,Oryx,2025-01-01,,0.063,73.64,32.55,false,AMBIENTE,false,730
+PRD0111,Alimentos Axiom 111,Alimentos funcionais,Axiom,2025-01-01,,0.593,62.9,34.71,false,ESPECIAL,false,540
+PRD0112,Alimentos Corelab 112,Alimentos funcionais,Corelab,2025-01-01,,0.739,72.49,42.41,false,AMBIENTE,true,365
+PRD0113,Alimentos Noma 113,Alimentos funcionais,Noma,2025-01-01,,0.256,73.59,41.85,false,AMBIENTE,false,180
+PRD0114,Alimentos North 114,Alimentos funcionais,North,2025-01-01,,0.269,34.6,20.19,false,AMBIENTE,false,540
+PRD0115,Alimentos Veld 115,,Veld,2025-01-01,,0.623,59.92,33.07,false,AMBIENTE,false,540
+PRD0116,Alimentos Metrik 116,Alimentos funcionais,Metrik,2025-01-01,,0.687,59.69,35.63,false,AMBIENTE,false,180
+PRD0117,Alimentos Arden 117,Alimentos funcionais,Arden,2025-01-01,,0.406,68.18,40.42,false,AMBIENTE,false,270
+PRD0118,Alimentos Oryx 118,Alimentos funcionais,Oryx,2025-01-01,,0.738,51.2,27.58,false,ESPECIAL,true,365
+PRD0119,Alimentos Axiom 119,Alimentos funcionais,Axiom,2025-01-01,,0.519,56.47,30.3,false,REFRIGERADO,false,180
+PRD0120,Alimentos Corelab 120,Alimentos funcionais,Corelab,2025-01-01,,0.666,58.59,32.19,false,AMBIENTE,false,365
+PRD0121,Alimentos Noma 121,Alimentos funcionais,Noma,2025-01-01,,0.339,37.74,21.15,false,AMBIENTE,false,730
+PRD0122,Alimentos North 122,Alimentos funcionais,North,2025-01-01,,0.628,74.17,41.48,false,AMBIENTE,false,180
+PRD0123,Alimentos Veld 123,Alimentos funcionais,Veld,2025-01-01,,0.282,58.04,31.27,false,AMBIENTE,false,270
+PRD0124,Alimentos Metrik 124,Alimentos funcionais,Metrik,2025-01-01,,0.681,40.33,23.67,false,AMBIENTE,false,180
+PRD0125,Alimentos Arden 125,Alimentos funcionais,Arden,2025-01-01,,0.399,63.01,34.51,false,AMBIENTE,false,540
+PRD0126,Alimentos Oryx 126,Alimentos funcionais,Oryx,2025-01-01,,0.429,55.85,31.63,false,AMBIENTE,false,540
+PRD0127,Alimentos Axiom 127,Alimentos funcionais,Axiom,2025-01-01,,0.292,56.38,31.68,false,AMBIENTE,false,365
+PRD0128,Alimentos Corelab 128,Alimentos funcionais,Corelab,2025-01-01,,0.351,53.25,29.59,false,AMBIENTE,false,730
+PRD0129,Alimentos Noma 129,Alimentos funcionais,Noma,2025-01-01,,0.464,61.1,35.1,false,AMBIENTE,false,270
+PRD0130,Alimentos North 130,Alimentos funcionais,North,2025-01-01,,0.523,61.21,35.2,false,AMBIENTE,false,270
+PRD0131,Alimentos Veld 131,Alimentos funcionais,Veld,2025-01-01,,0.737,46.03,25.89,false,AMBIENTE,false,540
+PRD0132,Alimentos Metrik 132,Alimentos funcionais,Metrik,2025-01-01,,0.747,63.25,35.62,false,AMBIENTE,false,730
+PRD0133,Alimentos Arden 133,Alimentos funcionais,Arden,2025-01-01,,0.554,39.54,21.82,false,AMBIENTE,false,180
+PRD0134,Alimentos Oryx 134,Alimentos funcionais,Oryx,2025-01-01,,0.714,38.96,21.89,false,AMBIENTE,false,365
+PRD0135,Alimentos Axiom 135,Alimentos funcionais,Axiom,2025-01-01,,0.666,35.07,19.44,false,AMBIENTE,true,365
+PRD0136,Alimentos Corelab 136,Alimentos funcionais,Corelab,2025-01-01,,0.672,75.14,42.26,false,AMBIENTE,false,730
+PRD0137,Alimentos Noma 137,Alimentos funcionais,Noma,2025-01-01,,0.536,42.54,25.63,false,AMBIENTE,false,180
+PRD0138,Alimentos North 138,Alimentos funcionais,North,2025-01-01,,0.272,42.35,24.5,false,AMBIENTE,false,730
+PRD0139,Alimentos Veld 139,Alimentos funcionais,Veld,2025-01-01,,0.461,67.15,39.25,false,AMBIENTE,false,365
+PRD0140,Alimentos Metrik 140,Alimentos funcionais,Metrik,2025-01-01,,0.362,60.57,33.06,false,AMBIENTE,false,180
+PRD0141,Snacks Axiom 141,Snacks e barras,Axiom,2025-01-01,,0.143,20.69,11.6,false,ESPECIAL,true,730
+PRD0142,Snacks Corelab 142,Snacks e barras,Corelab,2025-01-01,,0.095,12.11,6.85,false,AMBIENTE,false,540
+PRD0143,Snacks Noma 143,Snacks e barras,Noma,2025-01-01,,0.077,23.84,13.48,false,AMBIENTE,true,180
+PRD0144,Snacks North 144,Snacks e barras,North,2025-01-01,,0.127,18.61,10.56,false,AMBIENTE,false,365
+PRD0145,Snacks Veld 145,Snacks e barras,Veld,2025-01-01,,0.066,17.74,9.21,false,AMBIENTE,false,180
+PRD0146,Snacks Metrik 146,Snacks e barras,Metrik,2025-01-01,,0.135,19.9,10.94,false,AMBIENTE,false,270
+PRD0147,Snacks Arden 147,Snacks e barras,Arden,2025-01-01,,0.143,14.0,7.67,false,AMBIENTE,false,270
+PRD0148,Snacks Oryx 148,Snacks e barras,Oryx,2025-01-01,,0.091,11.76,6.24,false,AMBIENTE,false,270
+PRD0149,Snacks Axiom 149,Snacks e barras,Axiom,2025-01-01,,0.118,27.12,14.65,false,AMBIENTE,false,180
+PRD0150,Snacks Corelab 150,Snacks e barras,Corelab,2025-01-01,2026-05-18,0.067,20.5,11.45,false,AMBIENTE,false,180
+PRD0151,Snacks Noma 151,Snacks e barras,Noma,2025-01-01,2026-03-21,0.129,18.88,9.86,false,AMBIENTE,false,180
+PRD0152,Snacks North 152,Snacks e barras,North,2025-01-01,2026-03-18,0.11,23.38,12.62,false,AMBIENTE,false,180
+PRD0153,Snacks Veld 153,Snacks e barras,Veld,2025-01-01,2026-01-14,0.068,23.87,12.73,false,AMBIENTE,false,730
+PRD0154,Snacks Metrik 154,Snacks e barras,Metrik,2025-01-01,2026-03-25,0.122,27.45,14.24,false,AMBIENTE,false,730
+PRD0155,Snacks Arden 155,Snacks e barras,Arden,2025-01-01,2026-05-21,0.111,24.05,12.73,false,AMBIENTE,false,730
+PRD0156,Snacks Oryx 156,Snacks e barras,Oryx,2025-01-01,,0.111,21.37,12.09,false,AMBIENTE,false,270
+PRD0157,Snacks Axiom 157,Snacks e barras,Axiom,2025-01-01,,0.095,26.49,15.07,false,AMBIENTE,false,180
+PRD0158,Snacks Corelab 158,Snacks e barras,Corelab,2025-01-01,,0.13,22.96,13.21,false,AMBIENTE,true,365
+PRD0159,Snacks Noma 159,Snacks e barras,Noma,2025-01-01,,0.105,25.44,13.96,false,AMBIENTE,false,365
+PRD0160,Snacks North 160,Snacks e barras,North,2025-01-01,,0.121,27.79,15.72,false,AMBIENTE,false,365
+PRD0161,Snacks Veld 161,Snacks e barras,Veld,2025-01-01,,0.086,12.33,6.87,false,REFRIGERADO,false,730
+PRD0162,Snacks Metrik 162,Snacks e barras,Metrik,2025-01-01,,0.09,17.4,10.08,false,AMBIENTE,false,180
+PRD0163,Snacks Arden 163,Snacks e barras,Arden,2025-01-01,,0.106,22.24,12.34,false,AMBIENTE,false,730
+PRD0164,Snacks Oryx 164,Snacks e barras,Oryx,2025-01-01,,0.073,12.76,7.29,false,AMBIENTE,false,180
+PRD0165,Bebidas Axiom 165,Bebidas e consumo imediato,Axiom,2025-01-01,,0.6,19.4,10.72,false,REFRIGERADO,true,365
+PRD0166,Bebidas Corelab 166,Bebidas e consumo imediato,Corelab,2025-09-15,,0.33,20.24,11.59,false,AMBIENTE,true,365
+PRD0167,Bebidas Noma 167,Bebidas e consumo imediato,Noma,2025-07-07,,0.487,11.99,7.16,false,AMBIENTE,true,180
+PRD0168,Bebidas North 168,Bebidas e consumo imediato,North,2025-12-24,,0.458,17.91,11.0,false,AMBIENTE,true,270
+PRD0169,Bebidas Veld 169,Bebidas e consumo imediato,Veld,2025-11-28,,0.306,9.66,5.88,false,AMBIENTE,true,270
+PRD0170,Bebidas Metrik 170,Bebidas e consumo imediato,Metrik,2026-01-20,,0.544,19.96,11.25,false,ESPECIAL,true,540
+PRD0171,Bebidas Arden 171,Bebidas e consumo imediato,Arden,2025-10-29,,0.473,19.37,11.34,false,AMBIENTE,true,180
+PRD0172,Bebidas Oryx 172,Bebidas e consumo imediato,Oryx,2025-08-15,,0.307,20.66,12.13,false,AMBIENTE,true,365
+PRD0173,Bebidas Axiom 173,Bebidas e consumo imediato,Axiom,2025-09-16,,0.328,13.11,7.66,false,AMBIENTE,true,730
+PRD0174,Bebidas Corelab 174,Bebidas e consumo imediato,Corelab,2025-06-07,,0.358,19.9,12.02,false,AMBIENTE,true,180
+PRD0175,Bebidas Noma 175,Bebidas e consumo imediato,Noma,2026-01-12,,0.435,13.2,7.72,false,AMBIENTE,true,540
+PRD0176,Bebidas North 176,Bebidas e consumo imediato,North,2025-07-13,,0.541,20.23,11.38,false,AMBIENTE,true,540
+PRD0177,Bebidas Veld 177,Bebidas e consumo imediato,Veld,2026-01-31,,0.467,19.31,11.87,false,AMBIENTE,true,270
+PRD0178,Bebidas Metrik 178,Bebidas e consumo imediato,Metrik,2026-01-28,,0.64,17.36,10.06,false,AMBIENTE,true,270
+PRD0179,Bebidas Arden 179,Bebidas e consumo imediato,Arden,2025-10-15,,0.376,10.37,5.7,false,AMBIENTE,true,540
+PRD0180,Bebidas Oryx 180,Bebidas e consumo imediato,Oryx,2026-01-11,,0.541,18.03,10.61,false,ESPECIAL,true,730
